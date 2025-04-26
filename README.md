@@ -1,2 +1,2 @@
 # Wrangling
-Basic data wrangling and validation templates and case studies
+Templates and examples for common data wrangling and validation tasks.
