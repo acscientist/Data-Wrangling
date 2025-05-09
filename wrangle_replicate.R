@@ -1,14 +1,15 @@
-#' ------------------------------------------------------------------------------
-#' Demonstration of the `rep()` Function in R
-#' ------------------------------------------------------------------------------
-#' Purpose:
-#'   To showcase different use cases of the base R `rep()` function.
-#'   The `rep()` function is essential for replicating elements of vectors,
-#'   lists, factors, and other data types in flexible ways.
+# Base R Replication Operations -------------------------------------------
 #'
-#' Relevance:
-#'   This code exemplifies complexity (varied argument use), effectiveness
-#'   (outputs are valid and correct), and efficiency (minimal lines for maximum clarity).
+#' **Purpose**
+#' Demonstrate the `base::rep`function
+#'
+#' **Utility**
+#' The `rep()` function replicates elements of vectors, lists, factors, etc.
+#'
+#' **Notes**
+#' `Base R` functions are less likely to receive major updates than `non-Base R` packages
+#' ... This reduces the likelihood of unexpected changes in code functionality and improves backward compatibility
+#'
 #' ------------------------------------------------------------------------------
 
 #' --- Basic Usage ---
