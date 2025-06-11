@@ -1,15 +1,13 @@
 # Base R Set Operations ---------------------------------------------------
-# '
+#'
 #' **Purpose**
-#' Demonstrate `base::` comparison operators: `setx`, `union`, `intersect`
+#' ... Demonstrate `base::` comparison operators: `set`, `union`, `intersect`.
 #'
 #' **Utility**
-#' The `set` statements demonstrated in this file can be used to filter, combine, or compare elements of distinct vectors
+#' ... `set` statements can be used to filter, combine, or compare elements of distinct vectors.
 #'
 #' **Notes**
-#' `base::` functions are less likely to receive major updates than non-`base::` functions
-#' ... This reduces the likelihood of unexpected changes in code functionality and improves backward compatibility
-#'
+#' ... `Base R` functions are less likely to receive major updates than `non-Base R` packages, which results in fewer disruptions in code functionality and backward compatibility being encountered:
 #' ------------------------------------------------------------------------
 
 
